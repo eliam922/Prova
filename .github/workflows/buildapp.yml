@@ -16,7 +16,7 @@ on:
         default: "3.0.4"
         required: true
         type: string
-      decrypted_youtube_url:
+      decrypted_youtube_url: https://archive.org/download/you-tube-v-19.21.2-app-testers/YouTube-v19.21.2-AppTesters.ipa
         description: "Direct URL of the decrypted YouTube IPA"
         default: ""
         required: true
